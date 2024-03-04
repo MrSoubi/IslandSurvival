@@ -1,0 +1,3 @@
+﻿  IslandSurvival.cpp
+C:\Users\e_bouis\Documents\GitHub\IslandSurvival\IslandSurvival\IslandSurvival\Utils.h(7,2): warning C4091: 'static ' : ignoré à gauche de 'Utils' quand aucune variable n'est déclarée
+  IslandSurvival.vcxproj -> C:\Users\e_bouis\Documents\GitHub\IslandSurvival\IslandSurvival\x64\Debug\IslandSurvival.exe
